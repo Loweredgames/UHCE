@@ -1,0 +1,16 @@
+
+Name: Ultra Hardcore Extreme
+
+Edition: JAVA EDITION
+
+Release: \\ - JE-1.20.1-Ultra_Hardcore_Extreme:1.0.0
+
+Resource_pack: FALSE
+
+Data_pack: TRUE
+
+Github_Tag: JE-1a
+
+Github:https://github.com/Loweredgames/UHCE
+
+Website:https://minecraft-map-building-versions.blogspot.com/

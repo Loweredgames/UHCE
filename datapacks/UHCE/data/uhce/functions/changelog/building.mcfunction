@@ -11,12 +11,12 @@ bossbar set minecraft:building max 100
 
 #Version Number
 
-bossbar set building name {"text":"UHCE:1.18-2.0","color":"white","bold":true}
+bossbar set building name {"text":"JE-1.20.1-Ultra_Hardcore_Extreme:1.0.0","color":"white","bold":true}
 
 #Map Progress
 
-bossbar set minecraft:building value 100
+bossbar set minecraft:building value 0
 
 #Warning Message
 
-#title @a actionbar {"text":"\u26a0attention:work in progress\u26a0","bold":true,"color":"dark_red"}
+title @a actionbar {"text":"\u26a0attention:work in progress\u26a0","bold":true,"color":"dark_red"}

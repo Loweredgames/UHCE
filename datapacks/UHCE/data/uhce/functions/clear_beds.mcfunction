@@ -1,3 +1,10 @@
+#Copyright (C) Loweredgames (Lorenzo Giannini) 
+#Contacted:<https://github.com/Loweredgames>
+#This Source Code Form is subject to the terms of the License.
+#NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG STUDIO.
+#READING THE COPYRIGHT (C): <https://www.minecraft.net/en-us/terms>
+
+
 execute at @a run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:air replace minecraft:blue_bed
 execute at @a run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:air replace minecraft:cyan_bed
 execute at @a run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:air replace minecraft:lime_bed
